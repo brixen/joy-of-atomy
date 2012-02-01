@@ -1,0 +1,6 @@
+These are exercises and code examples from "The Joy of Clojure" by Fogus and
+Houser written in Atomy (http://atomy-lang.org). Atomy is still a work in
+progress but I find it to be one of the most interesting languages around.
+
+There is also a Ruby library that implements various persistent data
+structures call Hamster (https://github.com/harukizaemon/hamster/)
